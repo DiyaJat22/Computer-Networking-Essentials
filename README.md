@@ -34,12 +34,6 @@ Welcome to the Networking and System Fundamentals repository. This repo contains
 
 
 
-## 📎 About
-
-This repository was created by **Diya Jat** as part of her learning journey in **Cybersecurity** and **Computer Science**. It serves as a study companion and a helpful reference for anyone interested in fundamental networking and system concepts.
-
-
-
 ## 🛠️ Contributions
 
 Want to contribute or suggest improvements? Feel free to fork, clone, or submit a pull request!
